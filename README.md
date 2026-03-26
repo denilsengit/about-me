@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm [Denilsen] 👋
 
 ### 📊 System Analyst & Full-Stack Developer
 Saya berfokus pada perancangan arsitektur sistem yang skalabel dan pengembangan aplikasi web yang efisien. Saat ini saya banyak mendalami ekosistem SaaS dan manajemen data komunitas.
@@ -17,4 +17,4 @@ Saya berfokus pada perancangan arsitektur sistem yang skalabel dan pengembangan 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=[denilsengit]&show_icons=true&theme=radical)
