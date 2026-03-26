@@ -40,8 +40,8 @@ Seorang **System Analyst** yang berdedikasi pada efisiensi arsitektur dan pengal
 ### 📊 Professional Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&icon_color=3182ce" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=transparent&hide_border=true&title_color=3182ce" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[denilsengit]&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&icon_color=3182ce" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[denilsengit]&layout=compact&theme=transparent&hide_border=true&title_color=3182ce" height="170" />
 </div>
 
 ---
