@@ -37,22 +37,13 @@ Seorang **System Analyst** yang berdedikasi pada efisiensi arsitektur dan pengal
 
 ---
 
-### 📊 Professional Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[denilsengit]&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&icon_color=3182ce" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[denilsengit]&layout=compact&theme=transparent&hide_border=true&title_color=3182ce" height="170" />
-</div>
-
----
-
 ### 🚀 Featured Focus
 - **SaaS Architecture:** Perancangan database terpisah untuk keamanan data antar perusahaan.
 - **Automation:** Optimasi workflow menggunakan Google Apps Script.
 - **UI/UX Strategy:** Implementasi dashboard admin yang *clean* dan *responsive*.
 
 <p align="center">
-  <a href="https://linkedin.com/in/[LINKEDIN_KAMU]">
+  <a href="https://linkedin.com/in/[kelvinputudenilsen]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
